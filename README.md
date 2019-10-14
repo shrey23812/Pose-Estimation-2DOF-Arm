@@ -8,4 +8,4 @@ After that just run the python file named train.py, if you have run once and you
 Libraries needed: tensorflow,Keras,numpy,opencv,matplotlib,pygame
 
 P.S.
-This is a very simple program for pose estimation and thus I'll not recommend to use it for commercial purposes but if you do and something goes wrong I am not responsible :P
+The training time will be lot if you don't have a gpu enabled machine, and if your computer gets stuck while I am not responsible. :P
